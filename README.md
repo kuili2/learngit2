@@ -1,3 +1,3 @@
 # learngit2
 creating branch dev
-edit on dev
+冲突的解决
